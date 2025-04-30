@@ -1,0 +1,10 @@
+streamlit==1.28.0
+requests==2.31.0
+pandas==2.0.3
+numpy==1.26.0
+scikit-learn==1.3.0
+PyPDF2==3.0.1
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.1.0+cpu
+google-generativeai==0.3.2

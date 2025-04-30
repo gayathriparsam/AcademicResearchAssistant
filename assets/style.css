@@ -1,0 +1,13 @@
+/* Dark header */
+header { background-color: #2E2E2E; color: white; padding: 10px; }
+/* Light sidebar */
+.css-1d391kg { background-color: #F5F5F5; }
+/* Green buttons */
+.stButton>button { background-color: #4CAF50; color: white; border: none; padding: 8px 16px; border-radius: 5px; }
+.stButton>button:hover { background-color: #45a049; }
+/* Bold labels */
+label { font-weight: bold; }
+/* Expander styling */
+.streamlit-expanderHeader { background-color: #E8F5E9; }
+/* Chat input */
+.stTextInput input { border: 2px solid #4CAF50; border-radius: 5px; }
